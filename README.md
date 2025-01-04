@@ -27,6 +27,7 @@ Steps:
      - (TBD: one of) Esp8266, Nodemcu, Arduino, RPI zero 2 w, RPI pico 2 w
   - servo controller board (ex. PCA9685)
      - https://learn.adafruit.com/16-channel-pwm-servo-driver/overview
+     - https://learn.adafruit.com/16-channel-pwm-servo-driver/python-circuitpython
   - USB Battery (see example)
      - https://www.amazon.com/LOVELEDI-Portable-Charger-Power-Bank-15000mAh-Compatible-Smartphones/dp/B0CF3WGHWN/
 
