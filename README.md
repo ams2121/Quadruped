@@ -28,6 +28,7 @@ Steps:
   - servo controller board (ex. PCA9685)
      - https://learn.adafruit.com/16-channel-pwm-servo-driver/overview
   - USB Battery (see example)
+     - https://www.amazon.com/LOVELEDI-Portable-Charger-Power-Bank-15000mAh-Compatible-Smartphones/dp/B0CF3WGHWN/
 
 # Make Parts
   1. Use/borrow a laser cutter (or order from an online laser cutter store) all of the parts for a robot.
